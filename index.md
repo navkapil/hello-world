@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About me
+Dr Kapil is Assistant Professor at NIT Kurukshetra. His research interest lies in Machine Learning and its applications. Particularly, he has worked in Support Vector Machines, Extreme Learning Machines. He has also worked for localizing the nodes in WSNs and energy effcient WSNs. 
 
-You can use the [editor on GitHub](https://github.com/navkapil/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Oppurtunities with us
+If you are willing in working in the area of Machine Learning or Wireless Sensor Networks you are welcome for PhD with our group.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We believe in longer and strong interaction with students so as to come up with right research directions. This needs a whole lot of work and prepartion at both ends. Therefore, an internship oppurtunity is an obvious choice which give students more confidence in the area they would like to research. You can contact us at kapil[at]nitkkr.ac.in
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/navkapil/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Your learning path for Machine Learning, Wireless Sensor Networks
